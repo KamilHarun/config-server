@@ -3,7 +3,7 @@ server:
 
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/userdb_dev
+    url: jdbc:postgresql://localhost:5432/
     username: postgres
     password: devpassword
   
